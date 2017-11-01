@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="border_color" format="color"/>
+        <attr name="border_width" format="dimension"/>
+        <attr name="background_color" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_hm_size" format="dimension"/>
+        <attr name="text_ap_size" format="dimension"/>
+        <attr name="text_date_size" format="dimension"/>
+
+    </declare-styleable>
+</resources>
